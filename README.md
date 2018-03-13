@@ -1,2 +1,2 @@
 # PGCrypt
-A tool written in Ruby to simplyify secure encryption.
+A tool written in Ruby to simplify secure encryption.
